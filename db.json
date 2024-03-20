@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "bf5b",
+      "fname": "ayush",
+      "lname": "raut",
+      "email": "ayushraut61@gmail.com",
+      "password": "123456",
+      "cpassword": "123456"
+    },
+    {
+      "id": "4181",
+      "fname": "Rushi",
+      "lname": "Vairale",
+      "email": "rushiv20@gmail.com",
+      "password": "123456",
+      "cpassword": "123456"
+    },
+    {
+      "id": "7d81",
+      "fname": "Manasi",
+      "lname": "Bhagwat",
+      "email": "manasi29@gmail.com",
+      "password": "123456",
+      "cpassword": "123456"
+    }
+  ]
+}
